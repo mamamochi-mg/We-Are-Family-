@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+.env
+.git/
+.gitignore
+smoke_test.py
+README.md
