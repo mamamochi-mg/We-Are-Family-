@@ -53,9 +53,9 @@ FORMATS = {
 }
 
 SUPPORTED_HOSTS = {
-    "youtube.com", "www.youtube.com", "youtu.be", "m.youtube.com",
-    "tiktok.com", "www.tiktok.com", "vm.tiktok.com",
-    "facebook.com", "www.facebook.com", "m.facebook.com", "fb.watch",
+    "youtube.com", "www.youtube.com", "music.youtube.com", "youtu.be", "m.youtube.com",
+    "tiktok.com", "www.tiktok.com", "m.tiktok.com", "vm.tiktok.com", "vt.tiktok.com",
+    "facebook.com", "www.facebook.com", "web.facebook.com", "m.facebook.com", "fb.watch",
 }
 REQUESTS: dict[str, dict] = {}
 MUSIC_RESULTS: dict[str, list[str]] = {}
